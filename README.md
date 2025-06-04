@@ -1,3 +1,3 @@
 # GitBash-Test
 
-just messing around...
+Testing Jupyter while using GitBash.
